@@ -12,3 +12,10 @@
 
 ![alt text](https://cdn.pngsumo.com/footer-designs-png-png-image-footer-design-png-990_150.png)
 
+
+
+<h1 align="center">Kosma</h1>
+<p align="center">OVH VPN Developer, I know: Python and C+</p>
+<a href="https://github.com/Kosma200">
+  <p align="center">
+
