@@ -1,4 +1,3 @@
-![alt text](https://raw.githubusercontent.com/Gowixx/Gowixx/master/header.png)
 
 - 👋 Hey, I’m Kosma 
 - 👀 Looking for a boyfriend, can be black
@@ -10,5 +9,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kosma200&show_icons=true&theme=tokyonight)
 
-![alt text](https://raw.githubusercontent.com/Gowixx/Gowixx/master/footer.png)
+![alt text](https://w7.pngwing.com/pngs/29/67/png-transparent-apartment-page-footer-apartamentos-jovellanos-footer-angle-text-logo.png)
 
