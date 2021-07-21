@@ -9,3 +9,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kosma200&show_icons=true&theme=tokyonight)
 
+![](https://discord-md-badge.vercel.app/api/shield/436460660570718208
