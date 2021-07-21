@@ -9,5 +9,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kosma200&show_icons=true&theme=tokyonight)
 
-![alt text]()
+![alt text](https://cdn.pngsumo.com/footer-designs-png-png-image-footer-design-png-990_150.png)
 
