@@ -1,3 +1,4 @@
+![alt text](https://raw.githubusercontent.com/Kosma200/Kosma200/main/image.png)
 
 - 👋 Hey, I’m Kosma 
 - 👀 Looking for a boyfriend, can be black
