@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Kosma</h1>
-<p align="center">OVH VPN Developer, I know: Python and C+</p>
+<p align="center">OVH VPN Developer, Python and C+</p>
 <a href="https://github.com/Kosma200">
   <p align="center">
    <img src="https://komarev.com/ghpvc/?username=Kosma200" alt="Profile Views">
