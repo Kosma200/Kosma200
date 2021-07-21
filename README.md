@@ -9,5 +9,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kosma200&show_icons=true&theme=tokyonight)
 
-![alt text](https://w7.pngwing.com/pngs/29/67/png-transparent-apartment-page-footer-apartamentos-jovellanos-footer-angle-text-logo.png)
+![alt text](https://www.vippng.com/png/full/145-1451412_background-body-form-background-image-png.png)
 
