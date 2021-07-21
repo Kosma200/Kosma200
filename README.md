@@ -9,7 +9,8 @@
                                                      - 💎 Currently working on - OVH VPN
 
 
-                                   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kosma200&show_icons=true&theme=tokyonight)
+
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kosma200&show_icons=true&theme=tokyonight)
 
 ![alt text](https://raw.githubusercontent.com/Gowixx/Gowixx/master/footer.png)
 
