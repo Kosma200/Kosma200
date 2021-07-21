@@ -14,6 +14,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Kosma200&theme=nord&margin-w=15&margin-h=1&column=6" />
 </p>
 
+![alt text](https://cdn.pngsumo.com/footer-designs-png-png-image-footer-design-png-990_150.png)
 
 
 
