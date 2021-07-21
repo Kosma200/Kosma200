@@ -1,5 +1,5 @@
 - 👋 Hey, I’m Kosma 
-- 👀 Looking for a gay boyfriend
+- 👀 Looking for a boyfriend, can be black
 - 🌱 Programing in : C+ / Python
 - 💞️ Pronouns : Gay , Skid , Kosma
 - 📫 Questions ? : kosma²#1000 / discord 
